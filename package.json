@@ -1,7 +1,7 @@
 {
-  "name": "surface",
-  "version": "1.0.1",
-  "description": "Material Design, CSS only framework.",
+  "name": "nyamf",
+  "version": "1.0.4",
+  "description": "Material Design, CSS only framework. But not actually not the same stuff all over again",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp"
@@ -14,12 +14,11 @@
     "material",
     "material-design"
   ],
-  "author": "Ben Mildren",
+  "author": "Ben Mildren, Raffael Zica",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mildrenben/surface/issues"
   },
-  "homepage": "http://mildrenben.github.io/surface/",
   "devDependencies": {
     "browser-sync": "2.10.1",
     "gulp": "3.9.1",

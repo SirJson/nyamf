@@ -1,11 +1,7 @@
-Material Design, CSS only framework.
+Based on Surface from 2017.
 
-Check the documentation [here](http://mildrenben.github.io/surface).
+Here you can find bugfixes, updated dependencies and other stuff as I encounter problems using this in a project of mine. I also think I will stick to the no js philosophy cause that's the reason why I want to use it.
 
----
+I do not plan on creating yet another Material Framework... that's why it is called NYAMF
 
-Notice:
-
-I built this framework a few years back mainly for experimentation to see how far CSS could be pushed functionally. It's great that this repo is still active with issues and pull requests and a decent amount of stars, but to be honest, I did not build this to be the next bootstrap. It is far from perfect and there are likely better solutions out there for what you're seeking to do.
-
-As of 26th Sept 2017, this repo is no longer being actively maintained. I will check every now and then to merge PRs for small fixes.
+Check the original documentation [here](http://mildrenben.github.io/surface).
